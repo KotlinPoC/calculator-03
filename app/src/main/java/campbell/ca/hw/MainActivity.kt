@@ -21,7 +21,7 @@ import android.widget.TextView
  */
 
 // TODO:  update this code wrt https://kotlinlang.org/docs/reference/null-safety.html
-// TODO:  inline strings to res 
+// TODO:  inline strings to res
 
 class MainActivity : AppCompatActivity() {
     private lateinit  var etNum1: EditText
